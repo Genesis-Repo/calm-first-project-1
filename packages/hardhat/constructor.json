@@ -1,1 +1,1 @@
-{}
+{"NFTMarketplace":[{"paramType":"string","paramName":"name_","value":"MyNFTCollection"},{"paramType":"string","paramName":"symbol_","value":"MNC"},{"paramType":"uint256","paramName":"royaltyPercentage","value":10}]}
